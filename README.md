@@ -34,14 +34,3 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 * Instale as dependências com o comando `npm i` 
 * Inicie o servidor com o comando `npm start` , uma nova aba ira se abrir no navegador, caso não ocorra
 * Abre uma aba no navegar e navegue para localhost:3000
-
-## :keyboard: Resultado
-
-**GitHub Pages:** [Link](https://devsp011.github.io/calculadora-react/)
-
-![](https://raw.githubusercontent.com/devsp011/calculadora-react/master/image.png)
-
-## :man_technologist: Redes Sociais
-
-* [instagram](https://www.instagram.com/devsp011/)
-* [Linkedin](https://www.linkedin.com/in/vitor-sampaio-4532451a7/)
